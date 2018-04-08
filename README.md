@@ -10,3 +10,4 @@ Running:
 ```console
 python3 readSerial.py
 ```
+![Image](image.png)
